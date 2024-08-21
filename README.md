@@ -90,17 +90,12 @@ I'm always looking for new opportunities to learn and improve my skills.</h3>
             alt="vuejs" width="40" height="40" /> </a>
 </p>
 
-## GitHub Stats 📈 :
+## 📊GitHub Stats :
 
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=kencrisg&show_icons=true&locale=en&layout=compact"
-        alt="kencrisg" /></p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kencrisg&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=kencrisg&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kencrisg&theme=radical&hide_border=false)<br/>
 
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=kencrisg&show_icons=true&locale=en" alt="kencrisg" />
-</p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kencrisg&" alt="kencrisg" /></p>
 
 ## GitHub Thropies 🏆 :
 
@@ -112,9 +107,5 @@ I'm always looking for new opportunities to learn and improve my skills.</h3>
 <br>
 
 
-# 📊GitHub Stats :
 
-![](https://github-readme-stats.vercel.app/api?username=kencrisg&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kencrisg&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kencrisg&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
