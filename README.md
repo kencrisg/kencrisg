@@ -1,16 +1,11 @@
-<h1 align="center">👋 Hi, I'm Cristian Castro</h1>
-<h3 align="center">A software developer passionate about frontend and with knowledge of backend. I love working with
-    modern technologies like React, Next.js, Svelte, Tailwind CSS, and Bootstrap to create elegant and functional user
-    interfaces. I also enjoy exploring the world of backend with PHP and Rest APIs. I'm always looking for new
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Cristian Castro</h1>
+<h3 align="center">A software developer passionate about frontend and with knowledge of backend. I'm always looking for new
     opportunities to learn and improve my skills.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kencrisg&label=Profile%20views&color=0e75b6&style=flat"
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kencrisg&label=Profile%20views&color=008000&style=flat"
         alt="kencrisg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=kencrisg" alt="kencrisg" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/kencrisg" target="blank"><img
+<p align="left"> <a href="https://twitter.com/kencrisgdev" target="blank"><img
             src="https://img.shields.io/twitter/follow/kencrisg?logo=twitter&style=for-the-badge" alt="kencrisg" /></a>
 </p>
 
@@ -103,3 +98,5 @@
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kencrisg&" alt="kencrisg" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+            src="https://github-profile-trophy.vercel.app/?username=kencrisg" alt="kencrisg" /></a> </p>
