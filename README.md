@@ -97,14 +97,8 @@ I'm always looking for new opportunities to learn and improve my skills.</h3>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kencrisg&theme=radical&hide_border=false)<br/>
 
 
-## GitHub Thropies 🏆 :
-
-<br>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=kencrisg" alt="kencrisg" /></a> </p>
-
-<br>
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kencrisg&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 
 
