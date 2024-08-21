@@ -112,5 +112,9 @@ I'm always looking for new opportunities to learn and improve my skills.</h3>
 <br>
 
 
+# 📊GitHub Stats :
 
+![](https://github-readme-stats.vercel.app/api?username=kencrisg&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kencrisg&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kencrisg&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
