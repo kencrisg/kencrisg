@@ -90,6 +90,8 @@ I'm always looking for new opportunities to learn and improve my skills.</h3>
             alt="vuejs" width="40" height="40" /> </a>
 </p>
 
+## GitHub Stats 📈 :
+
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=kencrisg&show_icons=true&locale=en&layout=compact"
         alt="kencrisg" /></p>
@@ -97,6 +99,14 @@ I'm always looking for new opportunities to learn and improve my skills.</h3>
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=kencrisg&show_icons=true&locale=en" alt="kencrisg" />
 </p>
+## GitHub Thropies 🏆 :
+
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kencrisg)](https://github.com/kencrisg/github-profile-trophy)
+
+<br>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kencrisg&" alt="kencrisg" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
