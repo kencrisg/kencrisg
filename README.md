@@ -10,7 +10,17 @@ I'm always looking for new opportunities to learn and improve my skills.</h3>
             src="https://img.shields.io/twitter/follow/kencrisg?logo=twitter&style=for-the-badge" alt="kencrisg" /></a>
 </p>
 
-- 🌱 I’m currently learning **Flutter**
+
+<hr> 
+<pre> 
+        💻 Soy principalmente un desarrollador front-end pero tambien tengo conocimiento en backend
+        📚 Estoy estudiando ingenieria en Software en la Universidad Técnica del Norte
+        📝 Tengo un gran interés en la ingeniería y el diseño de software
+        🌱 Estoy aprendiendo sobre aplicaciones moviles con Flutter
+        🚩 Estoy interesado en el desarrollo de aplicaciones del lado del servidor 
+        😃 Espero colaborar en proyectos que tengan gran impacto en la sociedad
+</pre> 
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,7 +38,7 @@ I'm always looking for new opportunities to learn and improve my skills.</h3>
             alt="kencrisg" height="30" width="40" /></a>
 </p>
 
-## What I am Good at 🧑‍💻 :
+## 🧑‍💻 What I am Good at:
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3" width="40" height="40" /> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img
@@ -90,14 +100,14 @@ I'm always looking for new opportunities to learn and improve my skills.</h3>
             alt="vuejs" width="40" height="40" /> </a>
 </p>
 
-## 📊GitHub Stats :
+## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kencrisg&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=kencrisg&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kencrisg&theme=radical&hide_border=false)<br/>
 
 
-## 🏆GitHub Trophies
+## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=kencrisg&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 
