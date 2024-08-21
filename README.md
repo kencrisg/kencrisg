@@ -1,3 +1,5 @@
+<p align='center'>
+<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Cristian Castro</h1>
 <h4 align="center">A software developer with a passion for frontend and a background in backend. I love working with modern technologies like React, Next.js, Svelte, Tailwind CSS, and Bootstrap to create elegant and functional user interfaces. I also enjoy exploring the world of backend with PHP and Rest APIs.
 
