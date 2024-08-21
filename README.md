@@ -1,17 +1,22 @@
 <p align='center'>
-<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Cristian Castro</h1>
-<h4 align="center">A software developer with a passion for frontend and a background in backend. I love working with modern technologies like React, Next.js, Svelte, Tailwind CSS, and Bootstrap to create elegant and functional user interfaces. I also enjoy exploring the world of backend with PHP and Rest APIs.
-
-I'm always looking for new opportunities to learn and improve my skills.</h4>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kencrisg&label=Profile%20views&color=008000&style=flat"
-        alt="kencrisg" /> </p>
-
-<p align="left"> <a href="https://twitter.com/kencrisgdev" target="blank"><img
-            src="https://img.shields.io/twitter/follow/kencrisg?logo=twitter&style=for-the-badge" alt="kencrisg" /></a>
+        <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+</p>
+<h1 align="center">
+        Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Cristian Castro
+</h1>
+<h4 align="center">
+        A software developer with a passion for frontend and a background in backend. I love working with modern technologies like React, Next.js, Svelte, Tailwind CSS, and Bootstrap to create elegant and functional user interfaces. I             also enjoy exploring the world of backend with PHP and Rest APIs.
+        I'm always looking for new opportunities to learn and improve my skills.
+</h4>
+<p align="left"> 
+        <img src="https://komarev.com/ghpvc/?username=kencrisg&label=Profile%20views&color=008000&style=flat" alt="kencrisg" /> 
 </p>
 
+<p align="left"> 
+        <a href="https://twitter.com/kencrisgdev" target="blank">
+                <img src="https://img.shields.io/twitter/follow/kencrisg?logo=twitter&style=for-the-badge" alt="kencrisg" />
+        </a>
+</p>
 
 <hr> 
 <pre>
@@ -29,7 +34,7 @@ I'm always looking for new opportunities to learn and improve my skills.</h4>
     <a href="https://twitter.com/kencrisgdev" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
             alt="kencrisg" height="30" width="40" /></a>
-    <a href="www.linkedin.com/in/cristian-jefferson-castro-gómez" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/cristian-jefferson-castro-gómez" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="cristian castro" height="30" width="40" /></a>
     <a href="https://facebook.com/kencrisg" target="blank"><img align="center"
