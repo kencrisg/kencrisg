@@ -12,14 +12,14 @@ I'm always looking for new opportunities to learn and improve my skills.</h3>
 
 
 <hr> 
-<pre> 
-        💻 Soy principalmente un desarrollador front-end pero tambien tengo conocimiento en backend
-        📚 Estoy estudiando ingenieria en Software en la Universidad Técnica del Norte
-        📝 Tengo un gran interés en la ingeniería y el diseño de software
-        🌱 Estoy aprendiendo sobre aplicaciones moviles con Flutter
-        🚩 Estoy interesado en el desarrollo de aplicaciones del lado del servidor 
-        😃 Espero colaborar en proyectos que tengan gran impacto en la sociedad
-</pre> 
+<pre>
+       - 💻 I'm primarily a front-end developer but I also have knowledge in backend.
+       - 📚 I'm studying Software Engineering at the Universidad Técnica del Norte.
+       - 📝 I have a great interest in software engineering and design.
+       - 🌱 I'm learning about mobile applications with Flutter.
+       - 🚩 I'm interested in server-side application development.
+       - 😃 I hope to collaborate on projects that have a great impact on society.
+</pre>
 <hr>
 
 <h3 align="left">Connect with me:</h3>
