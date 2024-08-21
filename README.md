@@ -13,13 +13,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://twitter.com/kencrisg" target="blank"><img align="center"
+    <a href="https://twitter.com/kencrisgdev" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
             alt="kencrisg" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/cristian castro" target="blank"><img align="center"
+    <a href="www.linkedin.com/in/cristian-jefferson-castro-gómez" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="cristian castro" height="30" width="40" /></a>
-    <a href="https://fb.com/cristian j. castro" target="blank"><img align="center"
+    <a href="https://facebook.com/kencrisg" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="cristian j. castro" height="30" width="40" /></a>
     <a href="https://instagram.com/kencrisg" target="blank"><img align="center"
