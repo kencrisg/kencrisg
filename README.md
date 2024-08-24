@@ -5,7 +5,7 @@
         Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Cristian Castro
 </h1>
 <h4 align="center">
-        A software developer with a passion for frontend and a background in backend. I love working with modern technologies like React, Next.js, Svelte, Tailwind CSS, and Bootstrap to create elegant and functional user interfaces. I             also enjoy exploring the world of backend with PHP and Rest APIs.
+        A software developer with a passion for frontend and backend experience. I love working with modern technologies like React, Next.js, Svelte, Tailwind CSS and Bootstrap to create elegant and functional user interfaces. I also              enjoy exploring the backend world with PHP and Rest APIs. 
         I'm always looking for new opportunities to learn and improve my skills.
 </h4>
 <p align="left"> 
